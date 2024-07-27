@@ -1,0 +1,8 @@
+#VaeModel
+
+La siguiente liga es para descargar y hacer uso del VaeModel.xlsx debido a su peso no fue posible anexarlo:
+https://docs.google.com/spreadsheets/d/15_v0GJOEuk-VLQHaRITbrzg-Yz0E-Gfr/edit?usp=drive_link&ouid=111272331919711415405&rtpof=true&sd=true
+
+
+Adicionalmente anexo la liga en donde se encuentran alojados los modelos:
+https://drive.google.com/drive/folders/1oKsmoqk-295ItaDJm2D-6_LFyawlAYOu?usp=drive_link
